@@ -2,6 +2,12 @@
 <br>
 <h2>ra: 1903593</h2>
 <br>
+<h3>Padrões de projetos usados</h3>
+<ul> 
+<li>Strategy</li>
+<li>Factory</li>
+</ul>
+<br>
 <h3>Módulos</h3>
 <ul> 
 <li>calculadora.py</li>
